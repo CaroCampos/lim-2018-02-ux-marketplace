@@ -1,4 +1,4 @@
-# Plataforma de ventas en línea
+# Plataforma de ventas en línea : EURO PIGGY
 
 ## Preámbulo
 
