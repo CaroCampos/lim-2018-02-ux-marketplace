@@ -2,102 +2,28 @@
 
 ## Preámbulo
 
-En el mundo hay muchas formas de vender en línea, el porcentaje de compradores
-online sigue creciendo y la gama de cosas que pueden comprar también lo hace.
-Como compradores no siempre somos conscientes de todo lo que debe pasar para que
-los productos que necesitamos estén en una repisa del supermercado o de una
-tienda. En el comercio minorista hay una serie de intermediarios que en
-ocasiones nos hacen perder la pista del ‘viaje’ de un producto; un viaje que va
-encareciendo el producto por cada empresa por la que debe pasar hasta que llega
-a las manos de nosotros, los consumidores.
-En esta realidad hay dos actores perjudicados: el consumidor, que acaba pagando
-más por un producto y el productor o fabricante, que se ve presionado a vender
-más barato para que su producto llegue al consumidor a un precio asequible y que
-todos puedan beneficiarse en el camino.
+¿ Quien no tuvo alguna vez una alcancía ? Probablemente no hayan muchas respuestas negativas a esta pregunta y seguramente la mayoría viajará a su infancia y recordará la tradicional alcancía en forma de chanchito.
+La palabra alcancía viene probablemente del árabe vulgar "kanzîya", que es un adjetivo femenino derivado de kanz, que significa “tesoro escondido”. 
+La común forma de cerdito se remonta a la edad media y se debe a la distorsión del lenguaje. En Gran Bretaña las personas acostumbraban guardar su dinero en recipientes tipo maceta , que estaba hecho de una arcilla de bajo costo y de color naranja que era conocida con "Pygg". En el siglo XIX aún se mantenía la moda de guardar dinero en recipientes, por lo que los comerciantes hacian pedidos a los artesanos, para ellos la pronunciación con la que hacían los pedidos era una solicitud sencilla: hacer los recipientes en forma del cerdo. 
+La moda de la alcancía de chanchito empezó a extenderse y a traspasar fronteras y el tiempo.
 
-## Introducción
+## ¿ Qué es EUROPIGGY ?
+Europiggy es un emprendimiento de alcancías decorativas hechas a mano. Tienen más de 4 años en el mercado y cuentan con una tienda física ubicada en un centro comercial en el distrito de La Molina.
+Buscan brindar a sus clientes la oportunidad de regalar o tener la experiencia de ahorrar de una manera divertida, personalizando una alcancía que sea un elemento de ahorro y un elemento decorativo de alta calidad y alegría.
 
-### “Nuevo portal de e-commerce”
 
-Nos han contactado de la Asociación Nacional de Pequeños Comerciantes, una
-asociación que agrupa a pequeñas y medianas empresas que comercializan productos y servicios, y nos piden
-que asesoremos a **uno** de sus miembros en crear un portal desde donde los
-clientes compren sus productos sin intermediarios. Los miembros con los que trabajarás son: 
+## Objetivo del proyecto
+Evaluar y conocer el emprendimiento Europpigy para decidir diseñar o no, un portal e-comerce, donde se puedan vender directamente las alcancías mediante la web, hacer un negocio que llegue a más usuarios , elevar las ventas del mismo y crear una buena experiencia para el cliente.
 
-- [Dulcecreación](https://www.facebook.com/dulcecreaci%C3%B3n-2077087549044496/)
-- [Central Fly](https://www.facebook.com/CENTRALFLY/)
-- [Euro Piggy](https://www.facebook.com/EuroPiggy/)
-- [Isanka Peruvian Bags](https://www.facebook.com/IsankaPeruvianBags/)
-- [Pausa](https://www.facebook.com/pausa.travel/)
-- [Centro de Investigación y Desarrollo de Farmacoepidemiología (CID FARMA)](https://www.facebook.com/CIDFARMA/)
+## Implementación
+Para la realización de este proyecto utilizamos los 300 puntos del presupuesto para realizar las siguientes actividades:
 
-Luego de conocer con qué miembro trabajarás, la ANPC te pide que ayudes a ese
-miembro a hacer un estudio inicial de cómo debería ser este portal de ventas y
-cómo deben ofrecer los productos a los consumidores. Quieren que averigües cómo
-son los clientes que utilizaría este canal de venta y cuáles son sus
-motivaciones, cómo es el mercado actual en el que incursionarán; y que propongas
-una visión de cómo podría plantearse este nuevo canal de ventas.
 
-Una vez conozcas a los posibles compradores debes formular una propuesta de
-valor. Esto quiere decir que debes pensar cómo este portal va a comunicar sus
-beneficios a los usuarios y cómo va a vender sus productos. Para que guíes a la
-empresa que elijas a entender tu visión, esperan que les hagas una propuesta de
-cómo podría ser el portal donde las personas puedan buscar, ver, elegir y
-comprar sus productos.
+## 1. INVESTIGACIÓN
 
-## Objetivos de aprendizaje
-
-El objetivo principal de aprendizaje de este proyecto es entender cómo pasamos
-de lo que un cliente quiere alcanzar a la definición de un producto digital en
-poco tiempo. Entender los principales pasos y preguntas que debemos hacernos,
-cómo involucrar a los usuarios y su feedback y cómo usar esos resultados sin
-perder de vista los objetivos iniciales.
-Esperamos que en este proyecto puedas entender las necesidades y falencias de
-las empresas, aprender y empezar a empaparte de los posibles modelos de negocio
-así como investigar a su audiencia, los usuarios que consumen sus productos,
-entendiendo sus preferencias y contexto en el que lo hacen.
-
-De la misma manera deberás definir cuál es la mejor forma de ofrecerle los
-productos de tu cliente a sus usuarios, y, pensando en una propuesta de valor y
-sus objetivos. También, deberás definir los contenidos, la interacción y el
-diseño del proceso a partir del cual el usuario podrá hacer sus pedidos en esta
-plataforma.
-Este proyecto se debe "resolver" en parejas, por lo que un objetivo importante
-es ganar experiencia en trabajos con entrega grupal. Cada uno de las integrantes
-será responsable de una parte del trabajo: (1) el entendimiento del problema y
-(2) planeamiento y validación de la solución.
-
-## Tópicos a cubrir
-
-Para completar este proyecto tendrás que familiarizarte con conceptos como: UX
-research (entrevistas, benchmark), arquitectura de la información (flujo de
-contenido, mapa de sitio), diseño visual y de interacción (wireframes y
-prototipado), y user testing.
-
-## Consideraciones generales
-
-Para ser una gran UX no sólo debes familiarizarte con los conceptos sino,
-también, poner a prueba tus habilidades blandas. El uso de tu curiosidad y
-empatía son claves para el éxito laboral.
-Para poder realizar una buena entrevista, un benchmark o un user testing
-necesitas en todo momento estar atenta al cómo y no sólo al qué. En este
-sentido, es esencial que practiques el modo en que te comunicas frente al
-cliente y el usuario. Debes pensar quiénes son y qué es lo que necesitan, y no
-sólo enfocarte en lo que tú quieres comunicar.
-
-* Relación con el cliente: la empresa miembro con la que te toque trabajar será
-tu cliente. Saber relacionarte con ellos no es fácil. Para comenzar una buena
-relación con el cliente debes escuchar de manera activa qué es lo que necesitan,
-haciendo preguntas que te ayuden a entender sus necesidades para luego buscar
-cómo resolverlas. No trates de dar soluciones inmediatas, escucha y pregunta, la
-curiosidad es clave para entender la problemática. El problema del cliente no
-siempre es el primero que parece, debes investigar la empresa y la competencia
-para entender lo que sucede. Para mantener una buena relación con los clientes
-debes mostrarle cómo se beneficiarán de lo que ofreces; enséñale los posibles
-resultados y el beneficio que ellos podrían obtener. También debes estudiar las
-mejores prácticas en la industria del comercio electrónico para poder mostrarle
-al cliente casos de éxito.
-
+## 2. ANÁLISIS
+## 3. DISEÑO
+## 4. VALIDACIÓN 
 * Benchmark: revisar referencias y dar referencias es clave para tu relación con
 el cliente. Antes de comenzar a crear cualquier producto debes revisar qué está
 haciendo la competencia o industrias similares. De esta manera, puedes traer
