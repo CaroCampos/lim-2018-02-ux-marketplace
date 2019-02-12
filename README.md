@@ -11,18 +11,52 @@ La moda de la alcancía de chanchito empezó a extenderse y a traspasar frontera
 Europiggy es un emprendimiento de alcancías decorativas hechas a mano. Tienen más de 4 años en el mercado y cuentan con una tienda física ubicada en un centro comercial en el distrito de La Molina.
 Buscan brindar a sus clientes la oportunidad de regalar o tener la experiencia de ahorrar de una manera divertida, personalizando una alcancía que sea un elemento de ahorro y un elemento decorativo de alta calidad y alegría.
 <p align="center">
-<img src="https://ibb.co/87Z4BWV">
+<img src="https://i.ibb.co/XCRk4hT/logo-auropiggy.png">
 </p>
 
 
 ## Objetivo del proyecto
-Evaluar y conocer el emprendimiento Europpigy para decidir diseñar o no, un portal e-comerce, donde se puedan vender directamente las alcancías mediante la web, hacer un negocio que llegue a más usuarios , elevar las ventas del mismo y crear una buena experiencia para el cliente.
+* Evaluar y conocer el emprendimiento Europpigy para decidir diseñar o no, un portal e-comerce, donde se puedan vender directamente las alcancías mediante la web, hacer un negocio que llegue a más usuarios , elevar las ventas del mismo, crear una buena experiencia para el usuario y lograr la fidelización del mismo.
+
 
 ## Implementación
-Para la realización de este proyecto utilizamos los 300 puntos del presupuesto para realizar las siguientes actividades:
 
+Para realizar este proyecto hemos escogido  y utilizado las siguientes actividades:
+
+
+|Actividad|Descripción|Puntos|
+|:----|:---|:---:|
+|Entendimiento del problema, la industria y el contexto| Entender el contexto del negocio y lo que existe hoy en día respecto de la industria del proyecto. | 15 |
+|Benchmark| Revisión de features de la competencia y referencias análogas. | 20 |
+|Entrevistas con usuarios| Entrevistas en profundidad con al menos 5 usuarios. | 60 |
+|Observación contextual| Observación de al menos 5 usuarios en un contexto real de uso/compra. | 35 |
+|Testeos de prototipos| Sesiones de testing de la solución propuesta (baja, media y alta fidelidad) con al menos 5 usuarios por sesión. | 60 |
+|Sketching y wireframing| Elaboración de prototipos de baja y mediana fidelidad. | 30 |
+|Prototipado de alta fidelidad| Elaboración de prototipo en base a las pantallas diseñadas. | 80 |
 
 ## 1. INVESTIGACIÓN
+### BENCHMARK
+<p align="center">
+<img src="https://i.ibb.co/B6V7RF1/Benchmark.png">
+</p>
+
+### OBSERVACIÓN CONTEXTUAL
+#### Objetivo: 
+Conocer el flujo de ventas y la atención en un contexto real.
+
+Acudimos a la tienda física de Europiggy, ubicada en el Centro comercial La Rotonda en el distrito de la Molina.
+Hicimos la vez de clientes en un intento real de compra, haciendo preguntas acerca de las alcancías que exponían en vitrina, lo diseños personalizados que ofrecían en su fanpage de Facebook y el método de pago.
+Observamos el flujo de clientes y realizamos una compra.
+
+### ENTREVISTAS CON USUARIOS
+#### Objetivo 
+Conocer a los clientes y potenciales clientes, así como saber de sus necesidades.
+
+Hicimos una encuesta previa envíada vía online, para segmentar clientes o posibles compradores de alcancías,luego de ello agendamos entrevistas con quienes cumplían el perfil, para conocer de sus experiencias previas, sus necesidades.
+
+
+
+
 
 ## 2. ANÁLISIS
 ## 3. DISEÑO
@@ -109,26 +143,17 @@ los recursos que tienes.
 
 ## Implementación
 
-Para poder realizar este proyecto tendrás un presupuesto de 300 puntos. Estos
-puntos los podrás utilizar realizando las actividades del siguiente cuadro.
-Antes de empezar a realizar estas actividades tendrás que sustentar con tu coach
-cómo es que distribuirás estos puntos en estas actividades.
-El coach te dará el ok para que puedas empezar.
+Para realizar este proyecto hemos escogido  y utilizado las siguientes actividades:
+
 
 |Actividad|Descripción|Puntos|
 |:----|:---|:---:|
 |Entendimiento del problema, la industria y el contexto| Entender el contexto del negocio y lo que existe hoy en día respecto de la industria del proyecto. | 15 |
-|Entrevistas con cliente|Realización de entrevistas con el cliente (dueño del reto) y establecimiento de sus metas y objetivos.|25|
 |Benchmark| Revisión de features de la competencia y referencias análogas. | 20 |
 |Entrevistas con usuarios| Entrevistas en profundidad con al menos 5 usuarios. | 60 |
 |Observación contextual| Observación de al menos 5 usuarios en un contexto real de uso/compra. | 35 |
-|Inventario de contenidos| Inventario de todos los contenidos de un producto. | 15 |
-|Flujo / árbol de contenidos|Documento que estructura contenidos y su navegación|15|
-|Card Sorting| Actividad para entender el modelo mental de los usuarios en términos de organización de los contenidos. | 15 |
-|Testeo de soluciones actuales de la competencia| Sesiones de testing de productos actuales de la competencia para ver qué atributos valoran los usuarios. Al menos 5 usuarios.| 50 |
 |Testeos de prototipos| Sesiones de testing de la solución propuesta (baja, media y alta fidelidad) con al menos 5 usuarios por sesión. | 60 |
 |Sketching y wireframing| Elaboración de prototipos de baja y mediana fidelidad. | 30 |
-|Prototipado de contenido| Prototipado y testeo del contenido del producto. | 30 |
 |Prototipado de alta fidelidad| Elaboración de prototipo en base a las pantallas diseñadas. | 80 |
 
 ## Entrega
