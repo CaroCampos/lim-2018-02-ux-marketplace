@@ -10,6 +10,9 @@ La moda de la alcancía de chanchito empezó a extenderse y a traspasar frontera
 ## ¿ Qué es EUROPIGGY ?
 Europiggy es un emprendimiento de alcancías decorativas hechas a mano. Tienen más de 4 años en el mercado y cuentan con una tienda física ubicada en un centro comercial en el distrito de La Molina.
 Buscan brindar a sus clientes la oportunidad de regalar o tener la experiencia de ahorrar de una manera divertida, personalizando una alcancía que sea un elemento de ahorro y un elemento decorativo de alta calidad y alegría.
+<p align="center">
+<img src="https://ibb.co/87Z4BWV">
+</p>
 
 
 ## Objetivo del proyecto
