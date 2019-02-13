@@ -36,7 +36,9 @@ Para realizar este proyecto hemos escogido  y utilizado las siguientes actividad
 
 ## 1. INVESTIGACIÓN
 ### BENCHMARK
-https://www.figma.com/file/CQJkntQNfP6BfSWE9X2BhdOt/Benchmark?node-id=0%3A1
+<p align="center">
+<img src="https://i.ibb.co/B6V7RF1/Benchmark.png">
+</p>
 
 ### OBSERVACIÓN CONTEXTUAL
 #### Objetivo: 
