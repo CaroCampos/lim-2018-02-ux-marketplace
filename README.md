@@ -54,14 +54,25 @@ Hicimos una encuesta previa envíada vía online, para segmentar clientes o posi
 
 ## 2. ANÁLISIS
 
-#### Affinity Map
+#### AFFINITY MAP
 <p align="center">
 <img src="https://i.ibb.co/wzL5sp9/Affinity-map.jpg">
 </p>
 
-#### User Person
+#### USER PERSON
 <p align="center">
 <img src="https://i.ibb.co/CMrCPBc/User-Persona.png">
+</p>
+
+#### CUSTOMER JOURNEY MAP 
+* FANPAGE
+<p align="center">
+<img src="https://i.ibb.co/HK3ybxZ/A4-2.png">
+</p>
+
+ * TIENDA FÍSICA
+<p align="center">
+<img src="https://i.ibb.co/L0yCZ3t/A4-1.png">
 </p>
 
 
