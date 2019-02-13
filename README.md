@@ -36,9 +36,7 @@ Para realizar este proyecto hemos escogido  y utilizado las siguientes actividad
 
 ## 1. INVESTIGACIÓN
 ### BENCHMARK
-<p align="center">
-<img src="https://i.ibb.co/B6V7RF1/Benchmark.png">
-</p>
+https://www.figma.com/file/CQJkntQNfP6BfSWE9X2BhdOt/Benchmark?node-id=0%3A1
 
 ### OBSERVACIÓN CONTEXTUAL
 #### Objetivo: 
@@ -54,56 +52,23 @@ Conocer a los clientes y potenciales clientes, así como saber de sus necesidade
 
 Hicimos una encuesta previa envíada vía online, para segmentar clientes o posibles compradores de alcancías,luego de ello agendamos entrevistas con quienes cumplían el perfil, para conocer de sus experiencias previas, sus necesidades.
 
-
-
-
-
 ## 2. ANÁLISIS
+
+#### Affinity Map
+<p align="center">
+<img src="https://i.ibb.co/wzL5sp9/Affinity-map.jpg">
+</p>
+
+#### User Person
+<p align="center">
+<img src="https://i.ibb.co/CMrCPBc/User-Persona.png">
+</p>
+
+
+- [Itala](https://www.figma.com/file/CQJkntQNfP6BfSWE9X2BhdOt/Benchmark?node-id=0%3A1)
 ## 3. DISEÑO
 ## 4. VALIDACIÓN 
-* Benchmark: revisar referencias y dar referencias es clave para tu relación con
-el cliente. Antes de comenzar a crear cualquier producto debes revisar qué está
-haciendo la competencia o industrias similares. De esta manera, puedes traer
-buenas prácticas y evitar replicar aquellas que no son exitosas. Esto al cliente
-le da la confianza de que efectivamente tienes conocimiento de su problemática y
-que has estudiado todas las posibles soluciones. Para que el benchmark sea
-efectivo, tu curiosidad y pensamiento crítico deben ser altos; no sólo buscar
-las referencias que resulten obvias, sino otras industrias que puedan funcionar
-de manera similar o empresas pequeñas que están teniendo casos de éxito.
 
-* Presentación del plan, a dónde vas a ir y por qué: al resolver la problemática
-debes realizar un plan de trabajo, donde se visualicen las herramientas que
-estás utilizando y por qué las escogiste. No todas las problemáticas requieren
-que utilices las mismas herramientas. Debes utilizar la que mejor se ajuste. Es
-importante que siempre sustentes tu idea, no se trata de trabajar de manera
-mecánica para entregar algo al cliente, sino argumentar por qué esa es la mejor
-manera de aproximarse a una posible solución.
-
-* Testing centrado en el usuario: Realizar las pruebas con los usuarios
-garantiza que los problemas se detecten antes, las buenas ideas se introducen
-más rápido y se reducen los esfuerzos de diseño y desarrollo de productos
-innecesarios. Steve Jobs, una vez dijo: "El diseño no es sólo cómo se ve y cómo
-se siente. El diseño es cómo funciona”. Las pruebas de usabilidad son una
-técnica que ayuda a evaluar un producto al probarlo con usuarios reales. El
-testing es una buena forma de profundizar en las necesidades y preferencias de
-los usuarios observando sus reacciones mientras usan un producto. Para que el
-testing realmente esté centrado en el usuario, tú debes centrarte también en él,
-actuando con curiosidad y empatía en todo momento, preguntando de manera activa
-al usuario qué podrías mejorar y buscar aquellos errores que llevarán tu
-producto al siguiente nivel. No trates de que el usuario apruebe tu producto,
-llévalo a buscar las mejoras y posibles errores, generando una relación de
-confianza con el usuario.
-
-Tu curiosidad, empatía y pensamiento crítico son claves para tu éxito como UX
-Designer. En cada herramienta que utilices debes poner a prueba tus soft skills.
-Nunca des nada por supuesto, siempre pregunta hasta encontrar nuevas respuestas,
-debes actuar en todo momento con un pensamiento crítico, sino harás de manera
-mecánica tus proyectos sin encontrar soluciones innovadoras. Sé una
-investigadora, tu curiosidad es clave en los procesos creativos; pregunta
-constantemente y no intentes buscar soluciones inmediatas, aprende a navegar con
-la incertidumbre. La empatía es la habilidad que te va a guiar en las relaciones
-tanto con el cliente como con el usuario, intenta salir de tu mente y tus
-supuestos para entender cómo piensan los otros.
 
 ## Parte Obligatoria
 
