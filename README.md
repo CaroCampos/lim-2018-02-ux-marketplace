@@ -78,6 +78,12 @@ Hicimos una encuesta previa envíada vía online, para segmentar clientes o posi
 
 - [Itala](https://www.figma.com/file/CQJkntQNfP6BfSWE9X2BhdOt/Benchmark?node-id=0%3A1)
 ## 3. DISEÑO
+
+<p align="center"><a href="http://picasion.com/"><img src="http://i.picasion.com/pic88/7f1fc3cbc795e8b36efa585ac098e473.gif" width="300" height="560" border="0" alt="http://picasion.com/" /></a><br /><a href="http://picasion.com/"></a><br/> </p>
+
+
+
+
 ## 4. VALIDACIÓN 
 
 
