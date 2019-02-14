@@ -63,48 +63,62 @@ Hicimos un screener survey envíada vía online, para segmentar clientes o posib
 
 
 #### AFFINITY MAP
+Luego de ordenar la información de nuestros entrevistados obtuvimos los *quotes* más relevantes y  realizamos un mapa de afinidad para agruparlos por temas. Obtuvimos 17 categorías de las cuales consideramos 12 que podrían ayudarnos de manera relevante en nuestro proyecto.
 <p align="center">
 <img src="https://i.ibb.co/wzL5sp9/Affinity-map.jpg">
 </p>
 
 #### USER PERSON
+La representación de nuestro público objetivo está representado por "Paula" , una chica de 27 años que está bastante familiarizada con el internet porque trabaja con ello y porque le gusta. Es una chica amiguera que mantiene contacto con sus amigas del colegio y las de la universidad. Ella es súper detallista y le gusta hacer regalos en fechas especiales y siempre busca que el regalo sea único o que sea algo con el que las personas la recuerden. Hace compras por internet con regularidad pero muchas veces a desconfiado del método de pago. 
 <p align="center">
 <img src="https://i.ibb.co/CMrCPBc/User-Persona.png">
 </p>
 
 #### CUSTOMER JOURNEY MAP 
-* FANPAGE
+Exponemos aquí las interacciones que realiza el usuario en su experiencia con la tienda de alcancías. Desarrollamos dos mapas de las etapas, uno de ellos es la experiencia en la tienda física al realizar una compra, y el segundo es de la experiencia en la fanpage para una futura compra.
+
+#####  FANPAGE
+Puntos negativos que encontramos:
+1. Al explorar la fanpage, porque el usuario necesita encontrar modelos de alcancías de una manera rápida y no encuentra categorías para su facilidad. Todos los productos están colocados sin ninguna clasificación.
+2. Al esperar una respuesta por parte de los administradores de la fanpage, porque no recibe una respuesta a la consulta hecha en un comentario.
+3. Ante la posibilidad de recoger la alcancía en tienda y no contar con un sistema de delivery.
 <p align="center">
 <img src="https://i.ibb.co/HK3ybxZ/A4-2.png">
 </p>
 
-Al ingresar a la fanpage de Europiggy (https://www.facebook.com/EuroPiggy/)
+ [Facebook Euro Piggy] (https://www.facebook.com/EuroPiggy/)
 
- * TIENDA FÍSICA
+  ##### TIENDA FÍSICA
+ Puntos negativos que encontramos:
+ 1. En la identificación del local, porque la tienda no cuenta con un letrero que la ubique de manera rápida.
+ 2. En la respuesta a preguntas sobre información de las alcancías, porque no se sentía empatía entre el vendedor y el cliente.
 <p align="center">
 <img src="https://i.ibb.co/L0yCZ3t/A4-1.png">
 </p>
 
-
+##### PROBLEM STATEMENTS
+Ahora que ya conocemos al nuestro cliente (User Persona) y sabemos sus necesidades, identificaremos los problemas para buscar los posibles soluciones.
+<p align="center">
+<img src="https://i.ibb.co/HXWxL76/Problem-statements.png">
+</p>
 
 #### DEFINICION DEL PRODUCTO
-Quiénes son los principales usuarios de producto
-* Cuáles son los objetivos del negocio en relación con el producto
-* Cuáles son los objetivos de estos usuarios en relación con el producto
-* Cuál será la propuesta de valor del sitio que vas a crear
-* Cuáles son los contenidos que el usuarios quiere ver, la información que
-  buscarían para convencerse de comprar, confiar en la empresa que lo ofrece,
-  encontrar lo que busca y comprarlo
-* Cómo vas a distribuir y entregar esos contenidos
-* Cómo es el flujo que los usuarios que acaben comprando deberán hacer en la web
-* Cómo crees que el producto les está resolviendo sus problemas
+* Los principales usuarios del producto son adultos jóvenes comprendidos entre las edades de 20 y 27 años, que suelen comprar regalos personalizados y estan familiarizados con compras por internet.
+* El objetivo del negocio en relación con el producto es que los clientes al comprar una alcancía Euro Piggy queden  satisfechos con la calidad, la entrega oportuna, la seguridad al hacer el pago y de recibir un producto tal y como lo esperaban.
+* Los objetivos de los usuarios en relación con el producto son que puedan encontrar con facilidad la alcancía del diseño que están buscando o que se decidan por una teniendo ya una idea al ingresar a la web. Que el intervalo de tiempo entre búsqueda del diseño y la compra de la alcancía sea corto y a la vez amigable.
+* La propuesta de valor del sitio es ofrecer el servicio de alcancías personalizadas todo el tiempo, además de entregar un empaque original que distinga a la marca.
+* Los usuarios quieren y necesitan encontrar y comprar una alcancía de una forma rápida, con un flujo fácil, que se les brinde información detallada del producto sin tener que preguntarlo (precios, tamaños y material, visualizar fotos reales y profesionales de las alcancías y sentirse seguros al momento de realizar sus pagos y al recibir el producto.
+* La distribución y entrega de los contenidos estarán en un menú donde se podrán visualizar las categorías de los diseños de las alcancías,contará con un slider donde aparecerán fotos de alcancías, una por categoría y además un espacio que presentará los últimos diseños de alcancías que Euro Piggy ha realizado. De estas tres formas el usuario podrá acceder y empezar su proceso de compra.
+* El flujo de los usuarios para que realicen la compra podrá ser de tres maneras, la primera ingresando directamente al menú en donde escogerá una categoría la cual mostrará todas las alcancías disponibles de esa temática, la segunda escogiendo e ingresando en una de las alcancías que se muestran en el slider y la tercera escogiendo e ingresando en una de las alcancías que se muestran en el espacio de novedades. Al elegir un producto se mostraran todas sus caraterísticas, luego se dará la opción de "añadir al carrito" y se permitirá ir directamente a hacer el pago o seguir comprando. Para el pago se pedirán datos personales básicos, se le pedirá ingresar la manera de entrega de la alcancía y se enlazará a una plataforma de pago conocida para finalizar la compra. Buscaremos que el flujo sea fácil y práctico. 
+El producto resuelve el problema de sus clientes al prsentarle una web de fácil acceso a compras, mostrándole variedad de diseños y ordenados para su acceso rápido, además de brindarles la confianza de que su compra y su pago están siendo seguros.
+
+<p align="center">
+<img src="https://i.ibb.co/Xp8wyw4/Mapa-sitio-1.png">
+</p>
 
 #### PLANTEAMIENTO DE LA SOLUCIÓN 
 
 
-
-
-## 3. IDEACIÓN 
 
 ## 4. PROTOTIPADO
 
