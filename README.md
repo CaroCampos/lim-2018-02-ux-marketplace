@@ -151,15 +151,42 @@ El producto resuelve el problema de sus clientes al prsentarle una web de fácil
 
 ## 3. IDEACION , PROTOTIPADO Y USER TESTING
 
+### Prototipo de Baja Fidelidad
+
 <p align="center"><a href="http://picasion.com/"><img src="http://i.picasion.com/pic88/7f1fc3cbc795e8b36efa585ac098e473.gif" width="300" height="560" border="0" alt="http://picasion.com/" /></a><br /><a href="http://picasion.com/"></a><br/> </p>
+
+- [Vistas del prototipo de baja fidelidad](https://drive.google.com/drive/folders/1AcOVlFiUsfodI2aHjLft65mZpT5xMUbP)
+<p align="center">
+<img src="https://i.ibb.co/XxGJNWH/Screenshot-20190204-095222.png">
+</p>
+
+### Resultados del Testing de Baja Fidelidad
+Luego de realizar el testing con el prototipo de baja fidelidad con 5 usuarios, hemos encontrado los siguientes puntos a mejorar :
+*  El botón del menú (tipo hamburguesa), no fue usado por 4 de los usuarios.
+* Los usuarios hicieron "tap" al slider esperando no sólo ver más modelos de alcancías sino esperando que sea un enlace hacia el producto.
+
+
+### Prototipo de Alta fidelidad
 
 <p align="center"><a href="http://picasion.com/"><img src="http://i.picasion.com/pic88/dbd4af4409e6986f29fb1578ff88bdb5.gif" width="300" height="564" border="0" alt="http://picasion.com/" /></a><br /><a href="http://picasion.com/"></a><br/> </p>
 
+- [Prototipo de Alta fidelidad en Figma](https://www.figma.com/proto/ROovibe724yHx8SayrpyHusa/Home?node-id=0%3A1&scaling=scale-down)
+
+<img src="https://i.ibb.co/nwHWX1N/IMG-20190211-121909000.jpg">
+</p>
+
+### Resultados del Testing de alta Fidelidad
+Luego de realizar el testing con el prototipo de Alta Fidelidad con 5 usuarios , hemos encontrado las siguientes dificultades que nos servirán para iterar:
+
+* Los usuarios no sabías a qué categoría pertenecian las alcancías de novedades.
+* Los usuarios pensaron encontrar la categoría de personalizados en el home.
+* Fue difícil para los usuarios "taptear" los radio button por su pequeño tamaño.
+* En la sección de personalizados querían que se les muestre cómo iba a quedar la alcancía.
 
 
 
-## 4. USER TESTING
-proto alta
+
+
 
 
 
