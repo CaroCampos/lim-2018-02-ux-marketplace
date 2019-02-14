@@ -157,7 +157,7 @@ El producto resuelve el problema de sus clientes al prsentarle una web de fácil
 
 - [Vistas del prototipo de baja fidelidad](https://drive.google.com/drive/folders/1AcOVlFiUsfodI2aHjLft65mZpT5xMUbP)
 <p align="center">
-<img src="https://i.ibb.co/XxGJNWH/Screenshot-20190204-095222.png">
+<img src="https://i.ibb.co/XxGJNWH/Screenshot-20190204-095222.png" style="width:300px;">
 </p>
 
 ### Resultados del Testing de Baja Fidelidad
@@ -172,7 +172,8 @@ Luego de realizar el testing con el prototipo de baja fidelidad con 5 usuarios, 
 
 - [Prototipo de Alta fidelidad en Figma](https://www.figma.com/proto/ROovibe724yHx8SayrpyHusa/Home?node-id=0%3A1&scaling=scale-down)
 
-<img src="https://i.ibb.co/nwHWX1N/IMG-20190211-121909000.jpg">
+<p align="center">
+<img src="https://i.ibb.co/nwHWX1N/IMG-20190211-121909000.jpg" style="width:300px;">
 </p>
 
 ### Resultados del Testing de alta Fidelidad
@@ -182,10 +183,6 @@ Luego de realizar el testing con el prototipo de Alta Fidelidad con 5 usuarios ,
 * Los usuarios pensaron encontrar la categoría de personalizados en el home.
 * Fue difícil para los usuarios "taptear" los radio button por su pequeño tamaño.
 * En la sección de personalizados querían que se les muestre cómo iba a quedar la alcancía.
-
-
-
-
 
 
 
