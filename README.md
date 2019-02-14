@@ -45,12 +45,12 @@ Para realizar este proyecto hemos escogido  y utilizado las siguientes actividad
 Conocer el flujo de ventas y la atención en un contexto real.
 
 Acudimos a la tienda física de Europiggy, ubicada en el Centro comercial La Rotonda en el distrito de la Molina.
-Hicimos la vez de clientes en un intento real de compra, haciendo preguntas acerca de las alcancías que exponían en vitrina, lo diseños personalizados que ofrecían en su fanpage de Facebook y el método de pago.
+Hicimos la vez de clientes en un intento real de compra, haciendo preguntas acerca de las alcancías que exponían en vitrina, los diseños personalizados que ofrecían en su fanpage de Facebook y el método de pago.
 Observamos el flujo de clientes y realizamos una compra.
 <p align="center">
 <img src="https://i.ibb.co/jD0ZyC2/IMG-20190214-090815163.jpg"> <img src="https://i.ibb.co/QJDtDZr/tienda-europiggy.jpg">
-</p>
- 
+</p> 
+
  Luego del la observación contextual navegamos en la fanpage de Europiggy para conocer su flujo y lo que están ofreciendo mediante su red social.
  <p align="center">
 <img src="https://i.ibb.co/0mrYfVJ/europiggy-facebook.png">
@@ -73,6 +73,10 @@ Luego de nuestra visita a la tienda y de la exploración de su fanpage pudimos r
 Conocer a los clientes y potenciales clientes, así como saber de sus necesidades.
 
 Hicimos un screener survey envíada vía online, para segmentar clientes o posibles compradores de alcancías,luego de ello agendamos entrevistas con quienes cumplían el perfil, para conocer de sus experiencias previas y sus necesidades.
+[Guía de entrevista](https://docs.google.com/document/d/12vf0csT2e4_JzgC4ArKpCugdYqirAxgzqc88NtlVFUg/edit)
+[Guía de entrevista]()
+
+
 
 ## 2. SÍNTESIS Y DEFINICIÓN
 
