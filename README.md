@@ -47,6 +47,26 @@ Conocer el flujo de ventas y la atención en un contexto real.
 Acudimos a la tienda física de Europiggy, ubicada en el Centro comercial La Rotonda en el distrito de la Molina.
 Hicimos la vez de clientes en un intento real de compra, haciendo preguntas acerca de las alcancías que exponían en vitrina, lo diseños personalizados que ofrecían en su fanpage de Facebook y el método de pago.
 Observamos el flujo de clientes y realizamos una compra.
+<p align="center">
+<img src="https://i.ibb.co/jD0ZyC2/IMG-20190214-090815163.jpg"> <img src="https://i.ibb.co/QJDtDZr/tienda-europiggy.jpg">
+</p>
+ 
+ Luego del la observación contextual navegamos en la fanpage de Europiggy para conocer su flujo y lo que están ofreciendo mediante su red social.
+ <p align="center">
+<img src="https://i.ibb.co/0mrYfVJ/europiggy-facebook.png">
+</p>
+
+#### Planteamiento del problema:
+Luego de nuestra visita a la tienda y de la exploración de su fanpage pudimos reconocer algunos problemas:
+*  Ofrecen dentro de sus servicios la personalización de alcancías pero no especifican que sólo las realizan en cierta temporada.
+* Su stock de productos es bajo, cuentan sólo con uno o dos alcancías de un modelo específico.
+* No hay una actualización constante de su fanpage Facebook.
+* Su fanpage Facebook no muestra las alcancías por categorías, el usuario tiene que navegar e ingresar a cada una de las galerías para encontrar alguna en específico.
+* La fanpage Facebook no muestra caracteristicas de las alcancías, como material, tamaños y precios.
+* Las fotos que utilizan no son profesionales.
+* La comunicación vía redes sociales es deficiente, no hay una respuesta rápida hacia una consulta específica.
+* No se muestra empatía en la relación vendedor - usuario, en una compra en tienda física.
+ 
 
 ### ENTREVISTAS CON USUARIOS
 #### Objetivo 
@@ -102,6 +122,12 @@ Ahora que ya conocemos al nuestro cliente (User Persona) y sabemos sus necesidad
 <img src="https://i.ibb.co/HXWxL76/Problem-statements.png">
 </p>
 
+##### HOW MIGHT WE / CÓMO PODRÍAMOS
+Ahora pensaremos las posibles soluciones para nuestros "problem statements".
+<p align="center">
+<img src="https://i.ibb.co/HG0syNc/hmw.jpg">
+</p>
+
 #### DEFINICION DEL PRODUCTO
 * Los principales usuarios del producto son adultos jóvenes comprendidos entre las edades de 20 y 27 años, que suelen comprar regalos personalizados y estan familiarizados con compras por internet.
 * El objetivo del negocio en relación con el producto es que los clientes al comprar una alcancía Euro Piggy queden  satisfechos con la calidad, la entrega oportuna, la seguridad al hacer el pago y de recibir un producto tal y como lo esperaban.
@@ -119,8 +145,7 @@ El producto resuelve el problema de sus clientes al prsentarle una web de fácil
 #### PLANTEAMIENTO DE LA SOLUCIÓN 
 
 
-
-## 4. PROTOTIPADO
+## 3. IDEACION , PROTOTIPADO Y USER TESTING
 
 <p align="center"><a href="http://picasion.com/"><img src="http://i.picasion.com/pic88/7f1fc3cbc795e8b36efa585ac098e473.gif" width="300" height="560" border="0" alt="http://picasion.com/" /></a><br /><a href="http://picasion.com/"></a><br/> </p>
 
