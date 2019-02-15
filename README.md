@@ -158,6 +158,8 @@ El producto resuelve el problema de sus clientes al prsentarle una web de fácil
 - [Vistas del prototipo de baja fidelidad](https://drive.google.com/drive/folders/1AcOVlFiUsfodI2aHjLft65mZpT5xMUbP)
 <p align="center">
 <img src="https://i.ibb.co/XxGJNWH/Screenshot-20190204-095222.png" style="width:50px;">
+<img src="https://i.ibb.co/zn91sLy/Screenshot-20190211-111245.png" style="width:50px;">
+
 </p>
 
 ### Resultados del Testing de Baja Fidelidad
@@ -173,7 +175,7 @@ Luego de realizar el testing con el prototipo de baja fidelidad con 5 usuarios, 
 - [Prototipo de Alta fidelidad en Figma](https://www.figma.com/proto/ROovibe724yHx8SayrpyHusa/Home?node-id=0%3A1&scaling=scale-down)
 
 <p align="center">
-<img src="https://i.ibb.co/nwHWX1N/IMG-20190211-121909000.jpg" style="width:50px;">
+<img src="https://i.ibb.co/nwHWX1N/IMG-20190211-121909000.jpg" style="width:50px;"> 
 </p>
 
 ### Resultados del Testing de alta Fidelidad
