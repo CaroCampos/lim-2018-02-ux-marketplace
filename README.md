@@ -73,8 +73,8 @@ Luego de nuestra visita a la tienda y de la exploración de su fanpage pudimos r
 Conocer a los clientes y potenciales clientes, así como saber de sus necesidades.
 
 Hicimos un screener survey envíada vía online, para segmentar clientes o posibles compradores de alcancías,luego de ello agendamos entrevistas con quienes cumplían el perfil, para conocer de sus experiencias previas y sus necesidades.
-[Guía de entrevista](https://docs.google.com/document/d/12vf0csT2e4_JzgC4ArKpCugdYqirAxgzqc88NtlVFUg/edit)
-[Audios de entrevistas](https://drive.google.com/drive/folders/1x4o8dR_QkuFccioF5uWbJbj4ucNkANMJ)
+- [Guía de entrevista](https://docs.google.com/document/d/12vf0csT2e4_JzgC4ArKpCugdYqirAxgzqc88NtlVFUg/edit)
+- [Audios de entrevistas](https://drive.google.com/drive/folders/1x4o8dR_QkuFccioF5uWbJbj4ucNkANMJ)
 
 
 
@@ -110,7 +110,7 @@ Puntos negativos que encontramos:
 <img src="https://i.ibb.co/HK3ybxZ/A4-2.png">
 </p>
 
- [Facebook Euro Piggy] (https://www.facebook.com/EuroPiggy/)
+ * [Facebook Euro Piggy] (https://www.facebook.com/EuroPiggy/)
 
   ##### TIENDA FÍSICA
  Puntos negativos que encontramos:
@@ -197,6 +197,19 @@ Luego de realizar el testing con el prototipo de Alta Fidelidad con 5 usuarios ,
 * En la sección de personalizados querían que se les muestre cómo iba a quedar la alcancía.
 
 - [Videos del testing de Alta fidelidad](https://drive.google.com/drive/folders/1lkvsT_ZuYdVQ3ba4GbSx4Zv1cMfumTgs)
+
+
+## Prototipo navegable
+[Link a prototipo navegable]()
+
+## Link de Zeplin
+[Link a Zeplin]()
+
+## Proyecto en Drive
+[Link a documentación en Google Drive]()
+
+## Video en Loom
+[Link a video de explicación del proyecto]()
 
 
 
