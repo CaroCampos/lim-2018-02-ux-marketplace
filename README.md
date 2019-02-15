@@ -165,7 +165,7 @@ Luego del proceso de investigación y síntesis teniendo en cuenta las necesidad
 
 - [Vistas del prototipo de baja fidelidad](https://drive.google.com/drive/folders/1AcOVlFiUsfodI2aHjLft65mZpT5xMUbP)
 <p align="center">
-<img src="https://i.ibb.co/XxGJNWH/Screenshot-20190204-095222.png" style="width:50px;">
+<img src="https://i.ibb.co/XxGJNWH/Screenshot-20190204-095222.png" width="100">
 <img src="https://i.ibb.co/zn91sLy/Screenshot-20190211-111245.png" style="width:50px;">
 
 </p>
@@ -185,7 +185,7 @@ Luego de realizar el testing con el prototipo de baja fidelidad con 5 usuarios, 
 - [Prototipo de Alta fidelidad en Figma](https://www.figma.com/proto/ROovibe724yHx8SayrpyHusa/Home?node-id=0%3A1&scaling=scale-down)
 
 <p align="center">
-<img src="https://i.ibb.co/nwHWX1N/IMG-20190211-121909000.jpg" style="width:50px;"> 
+<img src="https://i.ibb.co/nwHWX1N/IMG-20190211-121909000.jpg" width="100"> 
 </p>
 
 ### Resultados del Testing de alta Fidelidad
@@ -212,45 +212,9 @@ Luego de realizar el testing con el prototipo de Alta Fidelidad con 5 usuarios ,
 [Link a video de explicación del proyecto]()
 
 
-
-
-
-- [Itala](https://www.figma.com/file/CQJkntQNfP6BfSWE9X2BhdOt/Benchmark?node-id=0%3A1)
-
-
-## Entrega
-
-El proyecto será entregado en un repositorio de GitHub. En él deberás agregar
-lo siguiente:
-
-README.md  explicando el proceso del proyecto:
-* Objetivos del proyecto
-* Problemas identificados en la investigación (del cliente y del usuario)
-* Definición del público objetivo
-    * User persona
-    * Customer Journey Map (indicando pain y gain points)
-* Definición de la solución/producto
-* Link a prototipo navegable
-* Explicación de cómo los contenidos y funcionalidades responden a los objetivos
-  del proyecto. 
-* Explicación de cómo los contenidos y funcionalidades resuelven cada uno de las
-  necesidades del usuario final.
-* Link de Zeplin, InVision inspects o Marvel Hand-offs para compartir tus
-  diseños con desarrolladores.
-
-Un video en [Loom](https://www.useloom.com/) de máximo 10 minutos explicando tu documento.
-* Estos 10 minutos tienes que utilizarlos para explicar los puntos indicados en
-  el `README.md` y para hacer un demo de la solución.
-
-En las otras carpetas del repositorio o en las carpetas de Google Drive podrás
-agregar los documentos complementarios que sustenten tu proceso:
-
-* Fotos, videos, guías de las actividades que realizaste
-* Flujo de usuario
-* Mapa de sitio
-* Etc.
-
-
-
+## El equipo
+<p align="center">
+<img src="https://i.ibb.co/vzRD4Fn/IMG-20190211-132338285.jpg">
+</p>
 
 
