@@ -74,7 +74,7 @@ Conocer a los clientes y potenciales clientes, así como saber de sus necesidade
 
 Hicimos un screener survey envíada vía online, para segmentar clientes o posibles compradores de alcancías,luego de ello agendamos entrevistas con quienes cumplían el perfil, para conocer de sus experiencias previas y sus necesidades.
 [Guía de entrevista](https://docs.google.com/document/d/12vf0csT2e4_JzgC4ArKpCugdYqirAxgzqc88NtlVFUg/edit)
-[Guía de entrevista]()
+[Audios de entrevistas](https://drive.google.com/drive/folders/1x4o8dR_QkuFccioF5uWbJbj4ucNkANMJ)
 
 
 
@@ -147,6 +147,14 @@ El producto resuelve el problema de sus clientes al prsentarle una web de fácil
 </p>
 
 #### PLANTEAMIENTO DE LA SOLUCIÓN 
+Luego del proceso de investigación y síntesis teniendo en cuenta las necesidades del los usuarios y los problemas hallados planteamos las siguientes soluciones:  
+
+ 1. Implementar una web e-comerce, porque hay una necesidad de hacer compras en línea por un tema de facilidad y ahorro de tiempo, además vemos alto potencial de venta de alcancías.  
+ 2. Implementar un catálogo que incluya las categorías de los diseños de las alcancías, lo que hará una web ordenada, fácil de explorar y cómoda para los usuarios.
+ 3. Implementar una categoría especial para las alcancías personalizadas, ya que Euro Piggy quiere resaltar como marca ésta característica y puede competir de esta manera con tiendas similares, logrando destacar.
+ 4. Implementar un método de pago que sea seguro y confiable para los usuarios, utilizando una pasarella de pago conocida que pueda brindar simplicidad y seguridad.
+
+ Con estas propuestas de soluciones: venta en línea, productos ordenados, personalización y método de pago seguro, podremos fidelizar clientes y obtener sus recomendaciones.
 
 
 ## 3. IDEACION , PROTOTIPADO Y USER TESTING
@@ -167,6 +175,8 @@ Luego de realizar el testing con el prototipo de baja fidelidad con 5 usuarios, 
 *  El botón del menú (tipo hamburguesa), no fue usado por 4 de los usuarios.
 * Los usuarios hicieron "tap" al slider esperando no sólo ver más modelos de alcancías sino esperando que sea un enlace hacia el producto.
 
+- [Videos del Testing de baja fidelidad](https://drive.google.com/drive/folders/175XM0krXaa8p3hMDlC0_nuzCs_4_zwuA)
+
 
 ### Prototipo de Alta fidelidad
 
@@ -181,10 +191,12 @@ Luego de realizar el testing con el prototipo de baja fidelidad con 5 usuarios, 
 ### Resultados del Testing de alta Fidelidad
 Luego de realizar el testing con el prototipo de Alta Fidelidad con 5 usuarios , hemos encontrado las siguientes dificultades que nos servirán para iterar:
 
-* Los usuarios no sabías a qué categoría pertenecian las alcancías de novedades.
+* Los usuarios no sabían a qué categoría pertenecian las alcancías de novedades.
 * Los usuarios pensaron encontrar la categoría de personalizados en el home.
 * Fue difícil para los usuarios "taptear" los radio button por su pequeño tamaño.
 * En la sección de personalizados querían que se les muestre cómo iba a quedar la alcancía.
+
+- [Videos del testing de Alta fidelidad](https://drive.google.com/drive/folders/1lkvsT_ZuYdVQ3ba4GbSx4Zv1cMfumTgs)
 
 
 
