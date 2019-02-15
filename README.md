@@ -165,8 +165,8 @@ Luego del proceso de investigación y síntesis teniendo en cuenta las necesidad
 
 - [Vistas del prototipo de baja fidelidad](https://drive.google.com/drive/folders/1AcOVlFiUsfodI2aHjLft65mZpT5xMUbP)
 <p align="center">
-<img src="https://i.ibb.co/XxGJNWH/Screenshot-20190204-095222.png" width="100">
-<img src="https://i.ibb.co/zn91sLy/Screenshot-20190211-111245.png" style="width:50px;">
+<img src="https://i.ibb.co/XxGJNWH/Screenshot-20190204-095222.png" width="200">
+<img src="https://i.ibb.co/zn91sLy/Screenshot-20190211-111245.png" width="200">
 
 </p>
 
@@ -185,7 +185,7 @@ Luego de realizar el testing con el prototipo de baja fidelidad con 5 usuarios, 
 - [Prototipo de Alta fidelidad en Figma](https://www.figma.com/proto/ROovibe724yHx8SayrpyHusa/Home?node-id=0%3A1&scaling=scale-down)
 
 <p align="center">
-<img src="https://i.ibb.co/nwHWX1N/IMG-20190211-121909000.jpg" width="100"> 
+<img src="https://i.ibb.co/nwHWX1N/IMG-20190211-121909000.jpg" width="200"> 
 </p>
 
 ### Resultados del Testing de alta Fidelidad
@@ -200,7 +200,7 @@ Luego de realizar el testing con el prototipo de Alta Fidelidad con 5 usuarios ,
 
 
 ## Prototipo navegable
-[Link a prototipo navegable]()
+[Link a prototipo navegable](https://www.figma.com/proto/ROovibe724yHx8SayrpyHusa/Home?node-id=0%3A1&scaling=scale-down)
 
 ## Link de Zeplin
 [Link a Zeplin]()
@@ -214,7 +214,7 @@ Luego de realizar el testing con el prototipo de Alta Fidelidad con 5 usuarios ,
 
 ## El equipo
 <p align="center">
-<img src="https://i.ibb.co/vzRD4Fn/IMG-20190211-132338285.jpg">
+<img src="https://i.ibb.co/vzRD4Fn/IMG-20190211-132338285.jpg" width="220">
 </p>
 
 
