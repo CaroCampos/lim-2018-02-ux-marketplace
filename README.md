@@ -174,6 +174,9 @@ Luego del proceso de investigación y síntesis teniendo en cuenta las necesidad
 Luego de realizar el testing con el prototipo de baja fidelidad con 5 usuarios, hemos encontrado los siguientes puntos a mejorar :
 *  El botón del menú (tipo hamburguesa), no fue usado por 4 de los usuarios.
 * Los usuarios hicieron "tap" al slider esperando no sólo ver más modelos de alcancías sino esperando que sea un enlace hacia el producto.
+* Cuando el usuario escogía la opción de "recoger en tienda" , no consideraba ya necesario hacer un pago por vía internet, lo que le creaba confusión.
+
+
 
 - [Videos del Testing de baja fidelidad](https://drive.google.com/drive/folders/175XM0krXaa8p3hMDlC0_nuzCs_4_zwuA)
 
@@ -194,7 +197,10 @@ Luego de realizar el testing con el prototipo de Alta Fidelidad con 5 usuarios ,
 * Los usuarios no sabían a qué categoría pertenecian las alcancías de novedades.
 * Los usuarios pensaron encontrar la categoría de personalizados en el home.
 * Fue difícil para los usuarios "taptear" los radio button por su pequeño tamaño.
+* Dentro del menú los usuarios no encontraron el enlace al "home" y se les dificultó regresar a la primera pantalla.
 * En la sección de personalizados querían que se les muestre cómo iba a quedar la alcancía.
+* No mostramos una pantalla donde sume el costo de envío lo que generó incomodidad en los usuarios testeados.
+
 
 - [Videos del testing de Alta fidelidad](https://drive.google.com/drive/folders/1lkvsT_ZuYdVQ3ba4GbSx4Zv1cMfumTgs)
 
