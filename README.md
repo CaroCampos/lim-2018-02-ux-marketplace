@@ -203,7 +203,7 @@ Luego de realizar el testing con el prototipo de Alta Fidelidad con 5 usuarios ,
 [Link a prototipo navegable](https://www.figma.com/proto/ROovibe724yHx8SayrpyHusa/Home?node-id=0%3A1&scaling=scale-down)
 
 ## Link de Zeplin
-[Link a Zeplin](zpl.io/2p41PeM)
+[Link a Zeplin](https://app.zeplin.io/project/5c6606b01deeae99bcef1a6e)
 
 ## Proyecto en Drive
 [Link a documentación en Google Drive]()
