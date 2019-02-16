@@ -160,6 +160,7 @@ Luego del proceso de investigación y síntesis teniendo en cuenta las necesidad
 ## 3. IDEACION , PROTOTIPADO Y USER TESTING
 
 ### Prototipo de Baja Fidelidad
+Para el testing de Baja fidelidad les pedimos a los usuarios que realizen la compra de una alcancía que podía ser de cualquier categoría que ellos eligieran.
 
 <p align="center"><a href="http://picasion.com/"><img src="http://i.picasion.com/pic88/7f1fc3cbc795e8b36efa585ac098e473.gif" width="300" height="560" border="0" alt="http://picasion.com/" /></a><br /><a href="http://picasion.com/"></a><br/> </p>
 
@@ -182,6 +183,13 @@ Luego de realizar el testing con el prototipo de baja fidelidad con 5 usuarios, 
 
 
 ### Prototipo de Alta fidelidad
+Para realizar este prototipo tomamos en cuenta el testing anterior e hicimos las mejoras en los puntos que habiamos notado era necesario hacerlo :
+- Cambiamos de posición el botón del menú para hacerlo más visible, lo colacamos a la izquierda.
+- Implementamos que en el slider aparecieran categorías de alcancías y que interactuando con ellas enlazará a todas las disponibles de estos diseños.
+- Eliminamos la opción de recogo en tienda, decidimos que los pedidos serían entregados a los usuarios en la dirección que nos proporcionaran.
+
+Realizamos el testing a los usuarios y para ello les pedimos que realizaran 2 tareas en concreto, una de ellas fue hacer una compra de una alcancía con diseño de superhéroe y la segunda tarea fue realizar una compra de una alcancía personalizada.
+
 
 <p align="center"><a href="http://picasion.com/"><img src="http://i.picasion.com/pic88/dbd4af4409e6986f29fb1578ff88bdb5.gif" width="300" height="564" border="0" alt="http://picasion.com/" /></a><br /><a href="http://picasion.com/"></a><br/> </p>
 
@@ -199,11 +207,13 @@ Luego de realizar el testing con el prototipo de Alta Fidelidad con 5 usuarios ,
 * Fue difícil para los usuarios "taptear" los radio button por su pequeño tamaño.
 * Dentro del menú los usuarios no encontraron el enlace al "home" y se les dificultó regresar a la primera pantalla.
 * En la sección de personalizados querían que se les muestre cómo iba a quedar la alcancía.
-* No mostramos una pantalla donde sume el costo de envío lo que generó incomodidad en los usuarios testeados.
+* No mostramos una pantalla donde se sumaba el costo de envío lo que generó incomodidad en los usuarios testeados.
+* Al dar la tarea de hacer una compra el usuario pensó automaticamente en registrarse, porque ya tenía la idea de este flujo de experiencias anteriores a compras.
 
 
 - [Videos del testing de Alta fidelidad](https://drive.google.com/drive/folders/1lkvsT_ZuYdVQ3ba4GbSx4Zv1cMfumTgs)
 
+# Enlaces 
 
 ## Prototipo navegable
 [Link a prototipo navegable](https://www.figma.com/proto/ROovibe724yHx8SayrpyHusa/Home?node-id=0%3A1&scaling=scale-down)
@@ -215,7 +225,7 @@ Luego de realizar el testing con el prototipo de Alta Fidelidad con 5 usuarios ,
 [Link a documentación en Google Drive]()
 
 ## Video en Loom
-[Link a video de explicación del proyecto]()
+[Link a video de explicación del proyecto](https://www.useloom.com/share/2d47f005950d4b30b1d2ebe2ab754e62)
 
 
 ## El equipo
