@@ -186,7 +186,7 @@ Luego de realizar el testing con el prototipo de baja fidelidad con 5 usuarios, 
 Para realizar este prototipo tomamos en cuenta el testing anterior e hicimos las mejoras en los puntos que habiamos notado era necesario hacerlo :
 - Cambiamos de posición el botón del menú para hacerlo más visible, lo colacamos a la izquierda.
 - Implementamos que en el slider aparecieran categorías de alcancías y que interactuando con ellas enlazará a todas las disponibles de estos diseños.
-- Eliminamos la opción de recogo en tienda, decidimos que los pedidos serían entregados a los usuarios en la dirección que nos proporcionaran.
+- Eliminamos la opción de recogo en tienda, decidimos que los pedidos serían entregados a los usuarios en la dirección que nos proporcionen.
 
 Realizamos el testing a los usuarios y para ello les pedimos que realizaran 2 tareas en concreto, una de ellas fue hacer una compra de una alcancía con diseño de superhéroe y la segunda tarea fue realizar una compra de una alcancía personalizada.
 
@@ -222,7 +222,7 @@ Luego de realizar el testing con el prototipo de Alta Fidelidad con 5 usuarios ,
 [Link a Zeplin](https://app.zeplin.io/project/5c6606b01deeae99bcef1a6e)
 
 ## Proyecto en Drive
-[Link a documentación en Google Drive]()
+[Link a documentación en Google Drive](https://drive.google.com/drive/folders/1vgkQLVit4q7KsCwCqUwycwIJ5zBWBT3w)
 
 ## Video en Loom
 [Link a video de explicación del proyecto](https://www.useloom.com/share/2d47f005950d4b30b1d2ebe2ab754e62)
