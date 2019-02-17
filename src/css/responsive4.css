@@ -1,0 +1,85 @@
+@media screen and (max-width: 480px) {
+
+	header {
+		margin: 0 auto;
+	}
+
+	#logo img {
+		margin: 0 auto;
+		width: 60%;
+	}
+
+	.banner {
+		margin-top: 20px;
+		margin-bottom: 20px;
+	}
+
+	nav:nth-child(2n) {
+		display: none;
+	}
+
+	nav ul li {
+		display: inline-block;
+		width: 80%;
+		padding: 20px;
+	}
+
+	nav ul .menudesplegable ul{
+		font-size: 16px;
+	}
+
+	.menudesplegable {
+		padding: 0;
+	}
+
+	nav ul li.menudesplegable > a {
+	    padding: 20px;
+	    display: inline-block;
+	}
+
+	nav ul li.menudesplegable > a:hover:before {
+    	bottom: 14px;
+	}
+
+	.menu{
+		display: block;
+		position: absolute;
+		top: 30px;
+		left: 5%;
+		outline: none;
+		cursor: pointer;
+	}
+
+	.nav2 {
+		display: none;
+	}
+
+	.nav2visible{
+		display: block;
+	}
+
+	.menudesplegable {
+		cursor: pointer;
+	}
+
+	.menudesplegable2 {
+		display: none;
+	}
+
+	.menudesplegablevisible2 {
+		display: block;
+	}
+
+	.menu .abrir {
+		display: none;
+	}
+
+	.open .cerrar {
+		display: none;
+	}
+
+	.open .abrir {
+		display: block;
+	}
+
+}
