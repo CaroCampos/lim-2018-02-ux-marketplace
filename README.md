@@ -1,319 +1,236 @@
-# Plataforma de ventas en línea
+# Plataforma de ventas en línea : EURO PIGGY
 
 ## Preámbulo
 
-En el mundo hay muchas formas de vender en línea, el porcentaje de compradores
-online sigue creciendo y la gama de cosas que pueden comprar también lo hace.
-Como compradores no siempre somos conscientes de todo lo que debe pasar para que
-los productos que necesitamos estén en una repisa del supermercado o de una
-tienda. En el comercio minorista hay una serie de intermediarios que en
-ocasiones nos hacen perder la pista del ‘viaje’ de un producto; un viaje que va
-encareciendo el producto por cada empresa por la que debe pasar hasta que llega
-a las manos de nosotros, los consumidores.
-En esta realidad hay dos actores perjudicados: el consumidor, que acaba pagando
-más por un producto y el productor o fabricante, que se ve presionado a vender
-más barato para que su producto llegue al consumidor a un precio asequible y que
-todos puedan beneficiarse en el camino.
+¿ Quien no tuvo alguna vez una alcancía ? Probablemente no hayan muchas respuestas negativas a esta pregunta y seguramente la mayoría viajará a su infancia y recordará la tradicional alcancía en forma de chanchito.
+La palabra alcancía viene probablemente del árabe vulgar "kanzîya", que es un adjetivo femenino derivado de kanz, que significa “tesoro escondido”. 
+La común forma de cerdito se remonta a la edad media y se debe a la distorsión del lenguaje. En Gran Bretaña las personas acostumbraban guardar su dinero en recipientes tipo maceta , que estaba hecho de una arcilla de bajo costo y de color naranja que era conocida con "Pygg". En el siglo XIX aún se mantenía la moda de guardar dinero en recipientes, por lo que los comerciantes hacian pedidos a los artesanos, para ellos la pronunciación con la que hacían los pedidos era una solicitud sencilla: hacer los recipientes en forma del cerdo. 
+La moda de la alcancía de chanchito empezó a extenderse y a traspasar fronteras y el tiempo.
 
-## Introducción
+## ¿ Qué es EUROPIGGY ?
+Europiggy es un emprendimiento de alcancías decorativas hechas a mano. Tienen más de 4 años en el mercado y cuentan con una tienda física ubicada en un centro comercial en el distrito de La Molina.
+Buscan brindar a sus clientes la oportunidad de regalar o tener la experiencia de ahorrar de una manera divertida, personalizando una alcancía que sea un elemento de ahorro y un elemento decorativo de alta calidad y alegría.
+<p align="center">
+<img src="https://i.ibb.co/XCRk4hT/logo-auropiggy.png">
+</p>
 
-### “Nuevo portal de e-commerce”
 
-Nos han contactado de la Asociación Nacional de Pequeños Comerciantes, una
-asociación que agrupa a pequeñas y medianas empresas que comercializan productos y servicios, y nos piden
-que asesoremos a **uno** de sus miembros en crear un portal desde donde los
-clientes compren sus productos sin intermediarios. Los miembros con los que trabajarás son: 
+## Objetivo del proyecto
+* Evaluar y conocer el emprendimiento Europpigy para decidir diseñar o no, un portal e-comerce, donde se puedan vender directamente las alcancías mediante la web, hacer un negocio que llegue a más usuarios , elevar las ventas del mismo, crear una buena experiencia para el usuario y lograr la fidelización del mismo.
 
-- [Dulcecreación](https://www.facebook.com/dulcecreaci%C3%B3n-2077087549044496/)
-- [Central Fly](https://www.facebook.com/CENTRALFLY/)
-- [Euro Piggy](https://www.facebook.com/EuroPiggy/)
-- [Isanka Peruvian Bags](https://www.facebook.com/IsankaPeruvianBags/)
-- [Pausa](https://www.facebook.com/pausa.travel/)
-- [Centro de Investigación y Desarrollo de Farmacoepidemiología (CID FARMA)](https://www.facebook.com/CIDFARMA/)
-
-Luego de conocer con qué miembro trabajarás, la ANPC te pide que ayudes a ese
-miembro a hacer un estudio inicial de cómo debería ser este portal de ventas y
-cómo deben ofrecer los productos a los consumidores. Quieren que averigües cómo
-son los clientes que utilizaría este canal de venta y cuáles son sus
-motivaciones, cómo es el mercado actual en el que incursionarán; y que propongas
-una visión de cómo podría plantearse este nuevo canal de ventas.
-
-Una vez conozcas a los posibles compradores debes formular una propuesta de
-valor. Esto quiere decir que debes pensar cómo este portal va a comunicar sus
-beneficios a los usuarios y cómo va a vender sus productos. Para que guíes a la
-empresa que elijas a entender tu visión, esperan que les hagas una propuesta de
-cómo podría ser el portal donde las personas puedan buscar, ver, elegir y
-comprar sus productos.
-
-## Objetivos de aprendizaje
-
-El objetivo principal de aprendizaje de este proyecto es entender cómo pasamos
-de lo que un cliente quiere alcanzar a la definición de un producto digital en
-poco tiempo. Entender los principales pasos y preguntas que debemos hacernos,
-cómo involucrar a los usuarios y su feedback y cómo usar esos resultados sin
-perder de vista los objetivos iniciales.
-Esperamos que en este proyecto puedas entender las necesidades y falencias de
-las empresas, aprender y empezar a empaparte de los posibles modelos de negocio
-así como investigar a su audiencia, los usuarios que consumen sus productos,
-entendiendo sus preferencias y contexto en el que lo hacen.
-
-De la misma manera deberás definir cuál es la mejor forma de ofrecerle los
-productos de tu cliente a sus usuarios, y, pensando en una propuesta de valor y
-sus objetivos. También, deberás definir los contenidos, la interacción y el
-diseño del proceso a partir del cual el usuario podrá hacer sus pedidos en esta
-plataforma.
-Este proyecto se debe "resolver" en parejas, por lo que un objetivo importante
-es ganar experiencia en trabajos con entrega grupal. Cada uno de las integrantes
-será responsable de una parte del trabajo: (1) el entendimiento del problema y
-(2) planeamiento y validación de la solución.
-
-## Tópicos a cubrir
-
-Para completar este proyecto tendrás que familiarizarte con conceptos como: UX
-research (entrevistas, benchmark), arquitectura de la información (flujo de
-contenido, mapa de sitio), diseño visual y de interacción (wireframes y
-prototipado), y user testing.
-
-## Consideraciones generales
-
-Para ser una gran UX no sólo debes familiarizarte con los conceptos sino,
-también, poner a prueba tus habilidades blandas. El uso de tu curiosidad y
-empatía son claves para el éxito laboral.
-Para poder realizar una buena entrevista, un benchmark o un user testing
-necesitas en todo momento estar atenta al cómo y no sólo al qué. En este
-sentido, es esencial que practiques el modo en que te comunicas frente al
-cliente y el usuario. Debes pensar quiénes son y qué es lo que necesitan, y no
-sólo enfocarte en lo que tú quieres comunicar.
-
-* Relación con el cliente: la empresa miembro con la que te toque trabajar será
-tu cliente. Saber relacionarte con ellos no es fácil. Para comenzar una buena
-relación con el cliente debes escuchar de manera activa qué es lo que necesitan,
-haciendo preguntas que te ayuden a entender sus necesidades para luego buscar
-cómo resolverlas. No trates de dar soluciones inmediatas, escucha y pregunta, la
-curiosidad es clave para entender la problemática. El problema del cliente no
-siempre es el primero que parece, debes investigar la empresa y la competencia
-para entender lo que sucede. Para mantener una buena relación con los clientes
-debes mostrarle cómo se beneficiarán de lo que ofreces; enséñale los posibles
-resultados y el beneficio que ellos podrían obtener. También debes estudiar las
-mejores prácticas en la industria del comercio electrónico para poder mostrarle
-al cliente casos de éxito.
-
-* Benchmark: revisar referencias y dar referencias es clave para tu relación con
-el cliente. Antes de comenzar a crear cualquier producto debes revisar qué está
-haciendo la competencia o industrias similares. De esta manera, puedes traer
-buenas prácticas y evitar replicar aquellas que no son exitosas. Esto al cliente
-le da la confianza de que efectivamente tienes conocimiento de su problemática y
-que has estudiado todas las posibles soluciones. Para que el benchmark sea
-efectivo, tu curiosidad y pensamiento crítico deben ser altos; no sólo buscar
-las referencias que resulten obvias, sino otras industrias que puedan funcionar
-de manera similar o empresas pequeñas que están teniendo casos de éxito.
-
-* Presentación del plan, a dónde vas a ir y por qué: al resolver la problemática
-debes realizar un plan de trabajo, donde se visualicen las herramientas que
-estás utilizando y por qué las escogiste. No todas las problemáticas requieren
-que utilices las mismas herramientas. Debes utilizar la que mejor se ajuste. Es
-importante que siempre sustentes tu idea, no se trata de trabajar de manera
-mecánica para entregar algo al cliente, sino argumentar por qué esa es la mejor
-manera de aproximarse a una posible solución.
-
-* Testing centrado en el usuario: Realizar las pruebas con los usuarios
-garantiza que los problemas se detecten antes, las buenas ideas se introducen
-más rápido y se reducen los esfuerzos de diseño y desarrollo de productos
-innecesarios. Steve Jobs, una vez dijo: "El diseño no es sólo cómo se ve y cómo
-se siente. El diseño es cómo funciona”. Las pruebas de usabilidad son una
-técnica que ayuda a evaluar un producto al probarlo con usuarios reales. El
-testing es una buena forma de profundizar en las necesidades y preferencias de
-los usuarios observando sus reacciones mientras usan un producto. Para que el
-testing realmente esté centrado en el usuario, tú debes centrarte también en él,
-actuando con curiosidad y empatía en todo momento, preguntando de manera activa
-al usuario qué podrías mejorar y buscar aquellos errores que llevarán tu
-producto al siguiente nivel. No trates de que el usuario apruebe tu producto,
-llévalo a buscar las mejoras y posibles errores, generando una relación de
-confianza con el usuario.
-
-Tu curiosidad, empatía y pensamiento crítico son claves para tu éxito como UX
-Designer. En cada herramienta que utilices debes poner a prueba tus soft skills.
-Nunca des nada por supuesto, siempre pregunta hasta encontrar nuevas respuestas,
-debes actuar en todo momento con un pensamiento crítico, sino harás de manera
-mecánica tus proyectos sin encontrar soluciones innovadoras. Sé una
-investigadora, tu curiosidad es clave en los procesos creativos; pregunta
-constantemente y no intentes buscar soluciones inmediatas, aprende a navegar con
-la incertidumbre. La empatía es la habilidad que te va a guiar en las relaciones
-tanto con el cliente como con el usuario, intenta salir de tu mente y tus
-supuestos para entender cómo piensan los otros.
-
-## Parte Obligatoria
-
-### 1) General
-
-En este proyecto necesitarás salir a hablar con usuarios reales y entender
-cuáles son sus necesidades, cómo las resuelven actualmente y proponer una
-solución óptima para resolver estas necesidades. Mientras resuelves el proyecto
-vas a tener que ir documentando las actividades que realices a través de fotos,
-videos, textos y scripts. Utiliza tu en Google Drive para guardar toda esta
-documentación y luego linkea las partes más importantes en el `README.md` de tu
-repositorio en GitHub.
-
-En este caso el README.md será la portada de tu solución final, en él tendrás
-que mostrar la solución final a través de screenshots y podrás compartir links a
-las secciones que detallaremos más adelante.
-
-### 2) Entendimiento del problema
-
-Durante esta parte te asegurarás que el producto que diseñarás es el correcto,
-es decir, que sigue objetivos de negocio y que resuelve necesidades reales de
-los usuarios. Para ello tendrás que entender al cliente (el miembro de la
-Asociación Nacional de Pequeños Comerciantes con quien estás trabajando) y a los
-usuarios. Luego de entender el problema, tendrás que plantear cómo es que vas a
-resolver dicho problema. Para ello puedes realizar muchas actividades, sin
-embargo el tiempo y los recursos que tienes son limitados. Tendrás que elegir
-bien qué actividades realizarás.
-
-### 3) Planteamiento y validación de la solución
-
-Luego de haber definido cómo es que será la solución, es decir qué
-funcionalidades tendrá y por qué, tendrás que implementarla. En este caso,
-tendrás que hacer un prototipo de alta fidelidad y tendrás que validarlo. Cómo
-en el caso anterior, para crear y validar la solución puedes realizar muchas
-actividades, depende de ti elegir cuáles son las más adecuadas para el caso y
-los recursos que tienes.
 
 ## Implementación
 
-Para poder realizar este proyecto tendrás un presupuesto de 300 puntos. Estos
-puntos los podrás utilizar realizando las actividades del siguiente cuadro.
-Antes de empezar a realizar estas actividades tendrás que sustentar con tu coach
-cómo es que distribuirás estos puntos en estas actividades.
-El coach te dará el ok para que puedas empezar.
+Para realizar este proyecto hemos escogido  y utilizado las siguientes actividades:
+
 
 |Actividad|Descripción|Puntos|
 |:----|:---|:---:|
 |Entendimiento del problema, la industria y el contexto| Entender el contexto del negocio y lo que existe hoy en día respecto de la industria del proyecto. | 15 |
-|Entrevistas con cliente|Realización de entrevistas con el cliente (dueño del reto) y establecimiento de sus metas y objetivos.|25|
 |Benchmark| Revisión de features de la competencia y referencias análogas. | 20 |
 |Entrevistas con usuarios| Entrevistas en profundidad con al menos 5 usuarios. | 60 |
 |Observación contextual| Observación de al menos 5 usuarios en un contexto real de uso/compra. | 35 |
-|Inventario de contenidos| Inventario de todos los contenidos de un producto. | 15 |
-|Flujo / árbol de contenidos|Documento que estructura contenidos y su navegación|15|
-|Card Sorting| Actividad para entender el modelo mental de los usuarios en términos de organización de los contenidos. | 15 |
-|Testeo de soluciones actuales de la competencia| Sesiones de testing de productos actuales de la competencia para ver qué atributos valoran los usuarios. Al menos 5 usuarios.| 50 |
 |Testeos de prototipos| Sesiones de testing de la solución propuesta (baja, media y alta fidelidad) con al menos 5 usuarios por sesión. | 60 |
 |Sketching y wireframing| Elaboración de prototipos de baja y mediana fidelidad. | 30 |
-|Prototipado de contenido| Prototipado y testeo del contenido del producto. | 30 |
 |Prototipado de alta fidelidad| Elaboración de prototipo en base a las pantallas diseñadas. | 80 |
 
-## Entrega
+## 1. INVESTIGACIÓN
+### BENCHMARK
+<p align="center">
+<img src="https://i.ibb.co/B6V7RF1/Benchmark.png">
+</p>
 
-El proyecto será entregado en un repositorio de GitHub. En él deberás agregar
-lo siguiente:
+### OBSERVACIÓN CONTEXTUAL
+#### Objetivo: 
+Conocer el flujo de ventas y la atención en un contexto real.
 
-README.md  explicando el proceso del proyecto:
-* Objetivos del proyecto
-* Problemas identificados en la investigación (del cliente y del usuario)
-* Definición del público objetivo
-    * User persona
-    * Customer Journey Map (indicando pain y gain points)
-* Definición de la solución/producto
-* Link a prototipo navegable
-* Explicación de cómo los contenidos y funcionalidades responden a los objetivos
-  del proyecto. 
-* Explicación de cómo los contenidos y funcionalidades resuelven cada uno de las
-  necesidades del usuario final.
-* Link de Zeplin, InVision inspects o Marvel Hand-offs para compartir tus
-  diseños con desarrolladores.
+Acudimos a la tienda física de Europiggy, ubicada en el Centro comercial La Rotonda en el distrito de la Molina.
+Hicimos la vez de clientes en un intento real de compra, haciendo preguntas acerca de las alcancías que exponían en vitrina, los diseños personalizados que ofrecían en su fanpage de Facebook y el método de pago.
+Observamos el flujo de clientes y realizamos una compra.
+<p align="center">
+<img src="https://i.ibb.co/jD0ZyC2/IMG-20190214-090815163.jpg"> <img src="https://i.ibb.co/QJDtDZr/tienda-europiggy.jpg">
+</p> 
 
-Un video en [Loom](https://www.useloom.com/) de máximo 10 minutos explicando tu documento.
-* Estos 10 minutos tienes que utilizarlos para explicar los puntos indicados en
-  el `README.md` y para hacer un demo de la solución.
+ Luego del la observación contextual navegamos en la fanpage de Europiggy para conocer su flujo y lo que están ofreciendo mediante su red social.
+ <p align="center">
+<img src="https://i.ibb.co/0mrYfVJ/europiggy-facebook.png">
+</p>
 
-En las otras carpetas del repositorio o en las carpetas de Google Drive podrás
-agregar los documentos complementarios que sustenten tu proceso:
+#### Planteamiento del problema:
+Luego de nuestra visita a la tienda y de la exploración de su fanpage pudimos reconocer algunos problemas:
+*  Ofrecen dentro de sus servicios la personalización de alcancías pero no especifican que sólo las realizan en cierta temporada.
+* Su stock de productos es bajo, cuentan sólo con uno o dos alcancías de un modelo específico.
+* No hay una actualización constante de su fanpage Facebook.
+* Su fanpage Facebook no muestra las alcancías por categorías, el usuario tiene que navegar e ingresar a cada una de las galerías para encontrar alguna en específico.
+* La fanpage Facebook no muestra caracteristicas de las alcancías, como material, tamaños y precios.
+* Las fotos que utilizan no son profesionales.
+* La comunicación vía redes sociales es deficiente, no hay una respuesta rápida hacia una consulta específica.
+* No se muestra empatía en la relación vendedor - usuario, en una compra en tienda física.
+ 
 
-* Fotos, videos, guías de las actividades que realizaste
-* Flujo de usuario
-* Mapa de sitio
-* Etc.
+### ENTREVISTAS CON USUARIOS
+#### Objetivo 
+Conocer a los clientes y potenciales clientes, así como saber de sus necesidades.
 
-## Otras consideraciones
-
-### 1) Planeamiento y presupuesto
-
-Cuando realices el planeamiento de cómo enfrentarás el reto deberás sustentarlo
-ante tu cliente y ante un coach. Ellos te darán la aprobación final para seguir
-con las actividades planteadas.
-
-### 2) Definición del producto
-
-Al definir el producto recuerda pensar en:
-
-* Quiénes son los principales usuarios de producto
-* Cuáles son los objetivos del negocio en relación con el producto
-* Cuáles son los objetivos de estos usuarios en relación con el producto
-* Cuál será la propuesta de valor del sitio que vas a crear
-* Cuáles son los contenidos que el usuarios quiere ver, la información que
-  buscarían para convencerse de comprar, confiar en la empresa que lo ofrece,
-  encontrar lo que busca y comprarlo
-* Cómo vas a distribuir y entregar esos contenidos
-* Cómo es el flujo que los usuarios que acaben comprando deberán hacer en la web
-* Cómo crees que el producto les está resolviendo sus problemas
-
-### 3) Prototipo de alta fidelidad
-
-Existen varias herramientas que puedes utilizar para crear tu prototipo,
-nosotros recomendamos Figma, sin embargo, eres libre de utilizar otras
-herramientas como Adobe XD, etc. Si eliges Figma tendrás que usar una
-herramienta adicional como Marvel o Invision. Recuerda que el diseño que
-trabajes debe seguir los fundamentos de visual design, como: contraste,
-alineación, jerarquía, entre otros.
-
-### 4) HTML, CSS y JS
-Utiliza los diseños exportados en Zeplin, Handoffs o Inspects y desarrolla **dos vistas como mínimo** (aparte del login)
-utilizando las tecnologías web que aprendiste en el common core: HTML, CSS y JS.
-Puedes usar los frameworks que quieras. Recuerda que la aplicación tiene que ser
-mobile-friendly. Despliega el código en GitHub Pages o Heroku.
+Hicimos un screener survey envíada vía online, para segmentar clientes o posibles compradores de alcancías,luego de ello agendamos entrevistas con quienes cumplían el perfil, para conocer de sus experiencias previas y sus necesidades.
+- [Guía de entrevista](https://docs.google.com/document/d/12vf0csT2e4_JzgC4ArKpCugdYqirAxgzqc88NtlVFUg/edit)
+- [Audios de entrevistas](https://drive.google.com/drive/folders/1x4o8dR_QkuFccioF5uWbJbj4ucNkANMJ)
 
 
-## Hacker edition
 
-- En lugar de usar Github para documentar tu proceso de trabajo, documéntalo en
-  su propia web, puedes usar Wix, Instapage, Squarespace, Google Sites o crear tu
-propia web desde 0. 
+## 2. SÍNTESIS Y DEFINICIÓN
 
-- Desarrolla **todo el flujo de tu propuesta**
-utilizando las tecnologías web que aprendiste en el common core: HTML, CSS y JS.
+* Quotes más importantes de nuestros entrevistados
+<p align="center">
+<img src="https://i.ibb.co/XyrwzNZ/Untitled.png">
+</p>
 
-- Escribe un post en Medium contando tu proceso de investigación
 
-## Evaluación
+#### AFFINITY MAP
+Luego de ordenar la información de nuestros entrevistados obtuvimos los *quotes* más relevantes y  realizamos un mapa de afinidad para agruparlos por temas. Obtuvimos 17 categorías de las cuales consideramos 12 que podrían ayudarnos de manera relevante en nuestro proyecto.
+<p align="center">
+<img src="https://i.ibb.co/wzL5sp9/Affinity-map.jpg">
+</p>
 
-Recuerda revisar la rúbrica para ver la descripción detallada de cada habilidad
-y cada nivel. A continuación presentamos los niveles esperados de cada habilidad
-que deberías alcanzar al finalizar este proyecto:
+#### USER PERSON
+La representación de nuestro público objetivo está representado por "Paula" , una chica de 27 años que está bastante familiarizada con el internet porque trabaja con ello y porque le gusta. Es una chica amiguera que mantiene contacto con sus amigas del colegio y las de la universidad. Ella es súper detallista y le gusta hacer regalos en fechas especiales y siempre busca que el regalo sea único o que sea algo con el que las personas la recuerden. Hace compras por internet con regularidad pero muchas veces a desconfiado del método de pago. 
+<p align="center">
+<img src="https://i.ibb.co/CMrCPBc/User-Persona.png">
+</p>
 
-### UX Design
+#### CUSTOMER JOURNEY MAP 
+Exponemos aquí las interacciones que realiza el usuario en su experiencia con la tienda de alcancías. Desarrollamos dos mapas de las etapas, uno de ellos es la experiencia en la tienda física al realizar una compra, y el segundo es de la experiencia en la fanpage para una futura compra.
 
-|Habilidad|Nivel Esperado|
-|:---|:---:|
-|User centricity| 4 |
-|Planificación| 3 |
-|Entrevistas y testing| 3 |
-|Observación| 2 |
-|Síntesis de resultados| 3 |
-|Flujos de usuario| 3 |
-|Arquitectura de la información| 3 |
-|Prototyping| 3 |
-|Business mindset| 4 |
-|Visual Design| 4 |
+#####  FANPAGE
+Puntos negativos que encontramos:
+1. Al explorar la fanpage, porque el usuario necesita encontrar modelos de alcancías de una manera rápida y no encuentra categorías para su facilidad. Todos los productos están colocados sin ninguna clasificación.
+2. Al esperar una respuesta por parte de los administradores de la fanpage, porque no recibe una respuesta a la consulta hecha en un comentario.
+3. Ante la posibilidad de recoger la alcancía en tienda y no contar con un sistema de delivery.
+<p align="center">
+<img src="https://i.ibb.co/HK3ybxZ/A4-2.png">
+</p>
 
-### Habilidades blandas
+ * [Facebook Euro Piggy] (https://www.facebook.com/EuroPiggy/)
 
-|Habilidad|Nivel Esperado|
-|:---|:---:|
-|Planificación y organización| 4 |
-|Autoaprendizaje| 4 |
-|Solución de problemas| 4 |
-|Dar y recibir feedback| 4 |
-|Adaptabilidad| 4 |
-|Trabajo en equipo| 4 |
-|Comunicación eficaz| 4 |
-|Presentaciones| 4 |
+  ##### TIENDA FÍSICA
+ Puntos negativos que encontramos:
+ 1. En la identificación del local, porque la tienda no cuenta con un letrero que la ubique de manera rápida.
+ 2. En la respuesta a preguntas sobre información de las alcancías, porque no se sentía empatía entre el vendedor y el cliente.
+<p align="center">
+<img src="https://i.ibb.co/L0yCZ3t/A4-1.png">
+</p>
+
+##### PROBLEM STATEMENTS
+Ahora que ya conocemos al nuestro cliente (User Persona) y sabemos sus necesidades, identificaremos los problemas para buscar los posibles soluciones.
+<p align="center">
+<img src="https://i.ibb.co/HXWxL76/Problem-statements.png">
+</p>
+
+##### HOW MIGHT WE / CÓMO PODRÍAMOS
+Ahora pensaremos las posibles soluciones para nuestros "problem statements".
+<p align="center">
+<img src="https://i.ibb.co/HG0syNc/hmw.jpg">
+</p>
+
+#### DEFINICION DEL PRODUCTO
+* Los principales usuarios del producto son adultos jóvenes comprendidos entre las edades de 20 y 27 años, que suelen comprar regalos personalizados y estan familiarizados con compras por internet.
+* El objetivo del negocio en relación con el producto es que los clientes al comprar una alcancía Euro Piggy queden  satisfechos con la calidad, la entrega oportuna, la seguridad al hacer el pago y de recibir un producto tal y como lo esperaban.
+* Los objetivos de los usuarios en relación con el producto son que puedan encontrar con facilidad la alcancía del diseño que están buscando o que se decidan por una teniendo ya una idea al ingresar a la web. Que el intervalo de tiempo entre búsqueda del diseño y la compra de la alcancía sea corto y a la vez amigable.
+* La propuesta de valor del sitio es ofrecer el servicio de alcancías personalizadas todo el tiempo, además de entregar un empaque original que distinga a la marca.
+* Los usuarios quieren y necesitan encontrar y comprar una alcancía de una forma rápida, con un flujo fácil, que se les brinde información detallada del producto sin tener que preguntarlo (precios, tamaños y material, visualizar fotos reales y profesionales de las alcancías y sentirse seguros al momento de realizar sus pagos y al recibir el producto.
+* La distribución y entrega de los contenidos estarán en un menú donde se podrán visualizar las categorías de los diseños de las alcancías,contará con un slider donde aparecerán fotos de alcancías, una por categoría y además un espacio que presentará los últimos diseños de alcancías que Euro Piggy ha realizado. De estas tres formas el usuario podrá acceder y empezar su proceso de compra.
+* El flujo de los usuarios para que realicen la compra podrá ser de tres maneras, la primera ingresando directamente al menú en donde escogerá una categoría la cual mostrará todas las alcancías disponibles de esa temática, la segunda escogiendo e ingresando en una de las alcancías que se muestran en el slider y la tercera escogiendo e ingresando en una de las alcancías que se muestran en el espacio de novedades. Al elegir un producto se mostraran todas sus caraterísticas, luego se dará la opción de "añadir al carrito" y se permitirá ir directamente a hacer el pago o seguir comprando. Para el pago se pedirán datos personales básicos, se le pedirá ingresar la manera de entrega de la alcancía y se enlazará a una plataforma de pago conocida para finalizar la compra. Buscaremos que el flujo sea fácil y práctico. 
+El producto resuelve el problema de sus clientes al prsentarle una web de fácil acceso a compras, mostrándole variedad de diseños y ordenados para su acceso rápido, además de brindarles la confianza de que su compra y su pago están siendo seguros.
+
+<p align="center">
+<img src="https://i.ibb.co/Xp8wyw4/Mapa-sitio-1.png">
+</p>
+
+#### PLANTEAMIENTO DE LA SOLUCIÓN 
+Luego del proceso de investigación y síntesis teniendo en cuenta las necesidades del los usuarios y los problemas hallados planteamos las siguientes soluciones:  
+
+ 1. Implementar una web e-comerce, porque hay una necesidad de hacer compras en línea por un tema de facilidad y ahorro de tiempo, además vemos alto potencial de venta de alcancías.  
+ 2. Implementar un catálogo que incluya las categorías de los diseños de las alcancías, lo que hará una web ordenada, fácil de explorar y cómoda para los usuarios.
+ 3. Implementar una categoría especial para las alcancías personalizadas, ya que Euro Piggy quiere resaltar como marca ésta característica y puede competir de esta manera con tiendas similares, logrando destacar.
+ 4. Implementar un método de pago que sea seguro y confiable para los usuarios, utilizando una pasarella de pago conocida que pueda brindar simplicidad y seguridad.
+
+ Con estas propuestas de soluciones: venta en línea, productos ordenados, personalización y método de pago seguro, podremos fidelizar clientes y obtener sus recomendaciones.
+
+
+## 3. IDEACION , PROTOTIPADO Y USER TESTING
+
+### Prototipo de Baja Fidelidad
+Para el testing de Baja fidelidad les pedimos a los usuarios que realizen la compra de una alcancía que podía ser de cualquier categoría que ellos eligieran.
+
+<p align="center"><a href="http://picasion.com/"><img src="http://i.picasion.com/pic88/7f1fc3cbc795e8b36efa585ac098e473.gif" width="300" height="560" border="0" alt="http://picasion.com/" /></a><br /><a href="http://picasion.com/"></a><br/> </p>
+
+- [Vistas del prototipo de baja fidelidad](https://drive.google.com/drive/folders/1AcOVlFiUsfodI2aHjLft65mZpT5xMUbP)
+<p align="center">
+<img src="https://i.ibb.co/XxGJNWH/Screenshot-20190204-095222.png" width="300">
+<img src="https://i.ibb.co/zn91sLy/Screenshot-20190211-111245.png" width="300">
+
+</p>
+
+### Resultados del Testing de Baja Fidelidad
+Luego de realizar el testing con el prototipo de baja fidelidad con 5 usuarios, hemos encontrado los siguientes puntos a mejorar :
+*  El botón del menú (tipo hamburguesa), no fue usado por 4 de los usuarios.
+* Los usuarios hicieron "tap" al slider esperando no sólo ver más modelos de alcancías sino esperando que sea un enlace hacia el producto.
+* Cuando el usuario escogía la opción de "recoger en tienda" , no consideraba ya necesario hacer un pago por vía internet, lo que le creaba confusión.
+
+
+
+- [Videos del Testing de baja fidelidad](https://drive.google.com/drive/folders/175XM0krXaa8p3hMDlC0_nuzCs_4_zwuA)
+
+
+### Prototipo de Alta fidelidad
+Para realizar este prototipo tomamos en cuenta el testing anterior e hicimos las mejoras en los puntos que habiamos notado era necesario hacerlo :
+- Cambiamos de posición el botón del menú para hacerlo más visible, lo colacamos a la izquierda.
+- Implementamos que en el slider aparecieran categorías de alcancías y que interactuando con ellas enlazará a todas las disponibles de estos diseños.
+- Eliminamos la opción de recogo en tienda, decidimos que los pedidos serían entregados a los usuarios en la dirección que nos proporcionen.
+
+Realizamos el testing a los usuarios y para ello les pedimos que realizaran 2 tareas en concreto, una de ellas fue hacer una compra de una alcancía con diseño de superhéroe y la segunda tarea fue realizar una compra de una alcancía personalizada.
+
+
+<p align="center"><a href="http://picasion.com/"><img src="http://i.picasion.com/pic88/dbd4af4409e6986f29fb1578ff88bdb5.gif" width="300" height="564" border="0" alt="http://picasion.com/" /></a><br /><a href="http://picasion.com/"></a><br/> </p>
+
+- [Prototipo de Alta fidelidad en Figma](https://www.figma.com/proto/ROovibe724yHx8SayrpyHusa/Home?node-id=0%3A1&scaling=scale-down)
+
+<p align="center">
+<img src="https://i.ibb.co/nwHWX1N/IMG-20190211-121909000.jpg" width="300"> 
+</p>
+
+### Resultados del Testing de alta Fidelidad
+Luego de realizar el testing con el prototipo de Alta Fidelidad con 5 usuarios , hemos encontrado las siguientes dificultades que nos servirán para iterar:
+
+* Los usuarios no sabían a qué categoría pertenecian las alcancías de novedades.
+* Los usuarios pensaron encontrar la categoría de personalizados en el home.
+* Fue difícil para los usuarios "taptear" los radio button por su pequeño tamaño.
+* Dentro del menú los usuarios no encontraron el enlace al "home" y se les dificultó regresar a la primera pantalla.
+* En la sección de personalizados querían que se les muestre cómo iba a quedar la alcancía.
+* No mostramos una pantalla donde se sumaba el costo de envío lo que generó incomodidad en los usuarios testeados.
+* Al dar la tarea de hacer una compra el usuario pensó automaticamente en registrarse, porque ya tenía la idea de este flujo de experiencias anteriores a compras.
+
+
+- [Videos del testing de Alta fidelidad](https://drive.google.com/drive/folders/1lkvsT_ZuYdVQ3ba4GbSx4Zv1cMfumTgs)
+
+# Enlaces 
+
+## Prototipo navegable
+[Link a prototipo navegable](https://www.figma.com/proto/ROovibe724yHx8SayrpyHusa/Home?node-id=0%3A1&scaling=scale-down)
+
+## Link de Zeplin
+[Link a Zeplin](https://app.zeplin.io/project/5c6606b01deeae99bcef1a6e)
+
+## Proyecto en Drive
+[Link a documentación en Google Drive](https://drive.google.com/drive/folders/1vgkQLVit4q7KsCwCqUwycwIJ5zBWBT3w)
+
+## Video en Loom
+[Link a video de explicación del proyecto](https://www.useloom.com/share/2d47f005950d4b30b1d2ebe2ab754e62)
+
+
+## El equipo
+<p align="center">
+<img src="https://i.ibb.co/vzRD4Fn/IMG-20190211-132338285.jpg" width="300">
+</p>
+
+
