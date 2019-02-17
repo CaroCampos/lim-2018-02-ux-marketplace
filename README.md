@@ -28,7 +28,7 @@ Para realizar este proyecto hemos escogido  y utilizado las siguientes actividad
 |:----|:---|:---:|
 |Entendimiento del problema, la industria y el contexto| Entender el contexto del negocio y lo que existe hoy en día respecto de la industria del proyecto. | 15 |
 |Benchmark| Revisión de features de la competencia y referencias análogas. | 20 |
-|Entrevistas con usuarios| Entrevistas en profundidad con al menos 5 usuarios. | 60 |
+|Entrevistas con usuarios| Entrevistas en profundidad con al menos 5 usuarios. | 60 | 
 |Observación contextual| Observación de al menos 5 usuarios en un contexto real de uso/compra. | 35 |
 |Testeos de prototipos| Sesiones de testing de la solución propuesta (baja, media y alta fidelidad) con al menos 5 usuarios por sesión. | 60 |
 |Sketching y wireframing| Elaboración de prototipos de baja y mediana fidelidad. | 30 |
